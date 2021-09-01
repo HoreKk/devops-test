@@ -27,6 +27,7 @@ jobs:
       - name: Action For Semantic Release
         uses: cycjimmy/semantic-release-action@v2.5.4
         with:
+          branch: main
           # Extra plugins for pre-install. You can also specify specifying version range for the extra plugins if you prefer.
           extra_plugins: |
             @semantic-release/changelog@5.0.1
