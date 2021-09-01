@@ -1,3 +1,10 @@
+## [1.2.8](https://github.com/HoreKk/devops-test/compare/v1.2.7...v1.2.8) (2021-09-01)
+
+
+### Bug Fixes
+
+* change repo for package of docker image ([70cb573](https://github.com/HoreKk/devops-test/commit/70cb5736f87d4112c3d16e56b3b69b7cbf824402))
+
 ## [1.2.7](https://github.com/HoreKk/devops-test/compare/v1.2.6...v1.2.7) (2021-09-01)
 
 
