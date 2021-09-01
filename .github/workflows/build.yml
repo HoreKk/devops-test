@@ -16,7 +16,7 @@ jobs:
           id: docker_meta
           uses: "crazy-max/ghaction-docker-meta@2e1a5c7fa42123697f82d479b551a1bbdb1bef88"
           with:
-            images: ghcr.io/Numericite/antoine-devops-test
+            images: ghcr.io/HoreKk/devops-test/devops-frontend
             labels: |
               org.opencontainers.image.title=frontend-devops
               org.opencontainers.image.documentation=https://github.com/HoreKk/devops-test
