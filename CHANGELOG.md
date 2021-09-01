@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/HoreKk/devops-test/compare/v1.2.2...v1.2.3) (2021-09-01)
+
+
+### Bug Fixes
+
+* remove buildx cache from build workflow ([9acc793](https://github.com/HoreKk/devops-test/commit/9acc79317c328f11fd8f244268a07b7232999356))
+
 ## [1.2.2](https://github.com/HoreKk/devops-test/compare/v1.2.1...v1.2.2) (2021-09-01)
 
 
