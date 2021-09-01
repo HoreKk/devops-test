@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/HoreKk/devops-test/compare/v1.2.3...v1.2.4) (2021-09-01)
+
+
+### Bug Fixes
+
+* copy all directory into docker ([1059c1e](https://github.com/HoreKk/devops-test/commit/1059c1eff1f1dbfb720cbc11aeff10a52ed379ff))
+
 ## [1.2.3](https://github.com/HoreKk/devops-test/compare/v1.2.2...v1.2.3) (2021-09-01)
 
 
