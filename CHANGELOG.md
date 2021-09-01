@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/HoreKk/devops-test/compare/v1.2.1...v1.2.2) (2021-09-01)
+
+
+### Bug Fixes
+
+* change event on for build workflow and change registry for docker image ([7c0c1cc](https://github.com/HoreKk/devops-test/commit/7c0c1cca2bd80f7dc1ff1290866522dd2343826d))
+
 ## [1.2.1](https://github.com/HoreKk/devops-test/compare/v1.2.0...v1.2.1) (2021-09-01)
 
 
