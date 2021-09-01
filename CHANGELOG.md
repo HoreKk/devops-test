@@ -1,3 +1,10 @@
+## [1.2.7](https://github.com/HoreKk/devops-test/compare/v1.2.6...v1.2.7) (2021-09-01)
+
+
+### Bug Fixes
+
+* message in HelloWorld component ([4f870b4](https://github.com/HoreKk/devops-test/commit/4f870b48ffcbfcff0e5954dd03f7bb3eaf9ef121))
+
 ## [1.2.6](https://github.com/HoreKk/devops-test/compare/v1.2.5...v1.2.6) (2021-09-01)
 
 
