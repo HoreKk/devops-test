@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/HoreKk/devops-test/compare/v1.2.0...v1.2.1) (2021-09-01)
+
+
+### Bug Fixes
+
+* chagne message in HelloWorld component ([3e11789](https://github.com/HoreKk/devops-test/commit/3e117897d24d1cf1060dd4b6eba20abaf29a2783))
+
 # [1.2.0](https://github.com/HoreKk/devops-test/compare/v1.1.2...v1.2.0) (2021-09-01)
 
 
