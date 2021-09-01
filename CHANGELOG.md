@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/HoreKk/devops-test/compare/v1.1.2...v1.2.0) (2021-09-01)
+
+
+### Bug Fixes
+
+* add commande to test build in Dockerfile ([4ee9a00](https://github.com/HoreKk/devops-test/commit/4ee9a00f9bf2a30bda0b8cb75b39cab77d7f9897))
+
+
+### Features
+
+* move vite app to folder frontend and create dockerfile for production ([df0c8c8](https://github.com/HoreKk/devops-test/commit/df0c8c8b67f8d94a6149090eb8a4e09d72cb6e0d))
+* new workflow to publish project in docker image ([5155c5c](https://github.com/HoreKk/devops-test/commit/5155c5cea01e41dbea78861017a5088e1f3a57c9))
+
 ## [1.1.2](https://github.com/HoreKk/devops-test/compare/v1.1.1...v1.1.2) (2021-09-01)
 
 
