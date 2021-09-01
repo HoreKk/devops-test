@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/HoreKk/devops-test/compare/v1.0.0...v1.1.0) (2021-09-01)
+
+
+### Features
+
+* add npm_token ([87392fc](https://github.com/HoreKk/devops-test/commit/87392fce04723977c8d15d7f1e4657684076c47c))
+
 # 1.0.0 (2021-09-01)
 
 
