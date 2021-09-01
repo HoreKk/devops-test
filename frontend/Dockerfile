@@ -10,3 +10,5 @@ COPY src ./src
 COPY public ./public
 
 RUN npm run build
+
+RUN npm run serve
