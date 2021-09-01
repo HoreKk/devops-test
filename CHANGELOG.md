@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/HoreKk/devops-test/compare/v1.1.1...v1.1.2) (2021-09-01)
+
+
+### Bug Fixes
+
+* clean up workflow changelog ([1fe2dc3](https://github.com/HoreKk/devops-test/commit/1fe2dc3b1ce4bc9bbd12b4f174f612b3621029e2))
+
 ## [1.1.1](https://github.com/HoreKk/devops-test/compare/v1.1.0...v1.1.1) (2021-09-01)
 
 
