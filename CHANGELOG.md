@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/HoreKk/devops-test/compare/v1.2.4...v1.2.5) (2021-09-01)
+
+
+### Bug Fixes
+
+* remove preview of build ([5a0469c](https://github.com/HoreKk/devops-test/commit/5a0469c8323b97637177e2df4747474872cbeef7))
+
 ## [1.2.4](https://github.com/HoreKk/devops-test/compare/v1.2.3...v1.2.4) (2021-09-01)
 
 
