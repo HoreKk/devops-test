@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/HoreKk/devops-test/compare/v1.2.10...v1.3.0) (2021-09-02)
+
+
+### Features
+
+* change message in HelloWorld component ([e6229d0](https://github.com/HoreKk/devops-test/commit/e6229d08870c08aa2cfea5e67304f2bcc8def137))
+
 ## [1.2.10](https://github.com/HoreKk/devops-test/compare/v1.2.9...v1.2.10) (2021-09-02)
 
 
