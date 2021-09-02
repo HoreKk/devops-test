@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/HoreKk/devops-test/compare/v1.3.0...v1.3.1) (2021-09-02)
+
+
+### Bug Fixes
+
+* build and push image docker only on new branch v ([05790f2](https://github.com/HoreKk/devops-test/commit/05790f2e5bf499a3d4abc603f9a54d1830d5069a))
+
 # [1.3.0](https://github.com/HoreKk/devops-test/compare/v1.2.10...v1.3.0) (2021-09-02)
 
 
