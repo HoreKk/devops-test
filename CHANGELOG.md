@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/HoreKk/devops-test/compare/v1.2.9...v1.2.10) (2021-09-02)
+
+
+### Bug Fixes
+
+* change folder build to dist ([6537b88](https://github.com/HoreKk/devops-test/commit/6537b88e4477e0821ee809ab80887a86bb84a4fa))
+
 ## [1.2.9](https://github.com/HoreKk/devops-test/compare/v1.2.8...v1.2.9) (2021-09-02)
 
 
