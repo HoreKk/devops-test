@@ -1,3 +1,10 @@
+## [1.2.9](https://github.com/HoreKk/devops-test/compare/v1.2.8...v1.2.9) (2021-09-02)
+
+
+### Bug Fixes
+
+* added nginx server ([1c4e9e5](https://github.com/HoreKk/devops-test/commit/1c4e9e5d3881e0a18ccac72ae8ecd5abe26b5e92))
+
 ## [1.2.8](https://github.com/HoreKk/devops-test/compare/v1.2.7...v1.2.8) (2021-09-01)
 
 
