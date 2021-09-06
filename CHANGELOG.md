@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/HoreKk/devops-test/compare/v1.3.2...v1.3.3) (2021-09-06)
+
+
+### Bug Fixes
+
+* change message ([b98f951](https://github.com/HoreKk/devops-test/commit/b98f951800658240ffcef5ccf7689dff1c164f88))
+
 ## [1.3.2](https://github.com/HoreKk/devops-test/compare/v1.3.1...v1.3.2) (2021-09-02)
 
 
